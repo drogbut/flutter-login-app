@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-*this is a example 
+* this is a example 
 
 ## Getting Started
 
