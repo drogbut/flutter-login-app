@@ -3,7 +3,7 @@
 Starting a simple Flutter project and learn how to build
 Sign up, and forgot password Pages UI Design
 
-![image](assets/images/login signup flutter app.jpg)
+![image](/assets/images/login_signup_flutter_app.jpg)
 
 
 ### Goal
